@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Miguel
+# Olá, eu sou o Miguel
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Foco em Desenvolvimento Backend  
-☁ Experiência com AWS e DynamoDB  
+ Estudante de Análise e Desenvolvimento de Sistemas  
+ Foco em Desenvolvimento Backend  
+ Experiência com AWS e DynamoDB  
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - Python
 - AWS (EC2, S3, IAM, Lambda)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Projeto em destaque
+##  Projeto em destaque
 
 ### Projeto de RH Aplicável
 
@@ -24,6 +24,6 @@ Sistema backend com implementação completa de operações CRUD utilizando Pyth
 
 ---
 
-## 📈 Objetivo
+## Objetivo
 
 Atuar como desenvolvedor backend, aplicando boas práticas, arquitetura escalável e integração com serviços em nuvem.

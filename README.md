@@ -2,23 +2,20 @@
 
  Estudante de Análise e Desenvolvimento de Sistemas  
  Foco em Desenvolvimento Backend  
- Experiência com AWS e DynamoDB  
+ Experiência com Python, AWS, DynamoDB, APIs REST
 
 ---
 
 ## Tecnologias
 
 - Python
-- AWS (EC2, S3, IAM, Lambda)
-- Amazon DynamoDB
-- CRUD
-- Arquitetura básica de sistemas
-
+- AWS (EC2, S3, IAM, Lambda, SQS, SNS)
+- API REST
 ---
 
 ##  Projeto em destaque
 
-### Projeto de RH Aplicável
+### Sistema de carga inicial de funcionarios
 
 Sistema backend com implementação completa de operações CRUD utilizando Python e DynamoDB em ambiente de nuvem (AWS).
 

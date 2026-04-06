@@ -12,7 +12,6 @@ Sou um desenvolvedor em formação com foco na integração com serviços em nuv
 
 ### 🧠 Linguagens & Desenvolvimento
 - Python
-- Desenvolvimento de APIs REST
 
 ### ☁️ Cloud & Infraestrutura
 - AWS (EC2, S3, Lambda, IAM, SQS, SNS)

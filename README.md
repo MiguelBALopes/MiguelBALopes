@@ -36,13 +36,6 @@ Na UXi, participo da construção e da evolução dos produtos, conectando **nec
 
 ## Tecnologias e ferramentas
 
-| Frente | Tecnologias e aplicações |
-| :--- | :--- |
-| **Desenvolvimento** | Python para lógica de negócio, automações e integrações. |
-| **Interfaces** | PySide6 para aplicações desktop; HTML e CSS para interfaces web. |
-| **Dados** | SQL, PostgreSQL, SQLite e DynamoDB. |
-| **Nuvem** | AWS: EC2, S3, Lambda, RDS e IAM. |
-| **Fluxo de trabalho** | Git, GitHub e VS Code. |
 
 Utilizo essas ferramentas conforme as necessidades do projeto, conectando interface, processamento e dados em soluções voltadas ao uso real.
 

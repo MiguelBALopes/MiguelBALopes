@@ -76,7 +76,6 @@ Desenvolvimento de soluções para verificar cadastros, aplicar regras de consis
 
 Atuação na configuração de ambientes, publicação de aplicações e integração com serviços de processamento, armazenamento e persistência de dados. Essa prática conecta o desenvolvimento ao funcionamento da solução.
 
-[**Explore meus repositórios públicos →**](https://github.com/MiguelBALopes?tab=repositories)
 
 <br>
 
@@ -91,8 +90,6 @@ Conecto a formação acadêmica à prática profissional, aplicando os fundament
 <a href="mailto:miguelbelizario@uxisolutions.com.br"><img src="assets/miguel-profile/contact.svg" width="100%" alt="Vamos conversar sobre desenvolvimento? miguelbelizario@uxisolutions.com.br"></a>
 
 <p align="center">
-  <a href="https://github.com/MiguelBALopes?tab=repositories">Meus repositórios</a>
-  &nbsp; · &nbsp;
   <a href="mailto:miguelbelizario@uxisolutions.com.br">E-mail profissional</a>
 </p>
 

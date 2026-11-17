@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="UXi Agro — Desenvolvimento de produto conectado à operação real"><title>UXi Agro — Desenvolvimento de produto conectado à operação real</title><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071323"/><stop offset=".6" stop-color="#080E19"/><stop offset="1" stop-color="#10213C"/></linearGradient>
+    <linearGradient id="blue"><stop stop-color="#4E88FF"/><stop offset=".52" stop-color="#22C4ED"/><stop offset="1" stop-color="#8BF5E5"/></linearGradient>
+    <linearGradient id="layer" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#12325A"/><stop offset="1" stop-color="#0B1729"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#267DFF" stop-opacity=".26"/><stop offset="1" stop-color="#267DFF" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#76B3E0" opacity=".16"/></pattern>
+    </defs><style>text{font-family:'Segoe UI',Arial,sans-serif}.white{fill:#F2F6FD}.muted{fill:#A6B5CC}.cyan{fill:#74E1F1}.small{font-size:14px;letter-spacing:2.3px;font-weight:600}</style><rect x="1" y="1" width="1278" height="318" rx="18" fill="#0A181F" stroke="#28413E"/>
+<rect x="800" y="2" width="478" height="316" fill="url(#dots)"/>
+<text x="45" y="52" fill="#85E3CC" font-size="14" letter-spacing="2.8">PRODUTO EM DESTAQUE / UXi AGRO</text>
+<text x="43" y="119" class="white" font-size="42" font-weight="650" letter-spacing="-1">Tecnologia conectada</text>
+<text x="43" y="171" fill="#83DFC8" font-size="42" font-weight="650" letter-spacing="-1">à operação real.</text>
+<text x="45" y="228" class="muted" font-size="21">Da análise dos processos ao desenvolvimento</text>
+<text x="45" y="263" class="muted" font-size="21">de funcionalidades para a gestão do negócio.</text>
+<g transform="translate(898 66)" stroke="#61B9AA" fill="none" stroke-width="1.6">
+<rect x="0" y="0" width="256" height="174" rx="14" fill="#0C2328"/><path d="M0 36h256"/>
+<circle cx="18" cy="18" r="3" fill="#83DFC8" stroke="none"/><circle cx="32" cy="18" r="3" fill="#2D6464" stroke="none"/><circle cx="46" cy="18" r="3" fill="#2D6464" stroke="none"/>
+<rect x="20" y="56" width="65" height="37" rx="5"/><rect x="96" y="56" width="65" height="37" rx="5"/>
+<path d="M20 143h213M23 128l32-14 36 9 36-24 36 8 45-42" stroke="#83DFC8" stroke-width="2.5"/>
+</g></svg>

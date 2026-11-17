@@ -1,82 +1,99 @@
 <p align="center">
-  <img src="assets/miguel-profile/hero.svg" width="100%" alt="Miguel Belizario — Desenvolvedor Full Stack. Análise e desenvolvimento de produtos na UXi Solutions.">
+  <img src="assets/miguel-profile/hero.svg" width="100%" alt="Miguel Belizario — Desenvolvedor Full Stack. Do front-end à infraestrutura.">
 </p>
 
 <p align="center">
-  <a href="https://github.com/uxisolutions"><strong>UXi Solutions</strong></a>
+  <a href="#sobre-mim"><strong>Sobre mim</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#minha-atuação"><strong>Minha atuação</strong></a>
+  <a href="#atuação-de-ponta-a-ponta"><strong>Minha atuação</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#tecnologias-e-ferramentas"><strong>Tecnologias</strong></a>
+  <a href="#como-eu-trabalho"><strong>Minha abordagem</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#experiência-prática"><strong>Experiência</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="mailto:miguelbelizario@uxisolutions.com.br"><strong>Contato</strong></a>
 </p>
 
 <br>
 
-## Visão de negócio. Cuidado com a experiência. Código com propósito.
+## Sobre mim
 
-Sou **Miguel Belizario**, Desenvolvedor Full Stack na [**UXi Solutions**](https://github.com/uxisolutions), responsável pela **análise e pelo desenvolvimento dos produtos da empresa**.
+### Do entendimento do problema à solução em funcionamento.
 
-Meu trabalho conecta o entendimento das necessidades do negócio à construção de soluções digitais. Atuo das interfaces à lógica de negócio, passando pela persistência dos dados e pelas integrações que sustentam a operação.
+Sou **Miguel Belizario**, Desenvolvedor Full Stack. Atuo **do front-end à infraestrutura**, conectando análise de sistemas, experiência do usuário, desenvolvimento e operação das aplicações.
 
-Tenho um cuidado especial com a **experiência do usuário**: acredito que um produto deve ser compreensível, útil e coerente com a rotina de quem o utiliza. Essa perspectiva orienta a forma como analiso problemas e desenvolvo funcionalidades.
+Gosto de compreender o sistema por inteiro: o que as pessoas precisam realizar, como as funcionalidades devem se comportar e o que é necessário para colocar a solução em funcionamento.
 
-**Construir software, para mim, é transformar complexidade em uma experiência mais simples.**
+**Trabalho com a tecnologia que o projeto exigir.** Adapto minha atuação às ferramentas, aos ambientes e aos desafios de cada demanda, aprendendo e aprofundando o que for necessário para desenvolver a solução.
 
-<br>
-
-## Minha atuação
-
-<img src="assets/miguel-profile/focus.svg" width="100%" alt="Análise: entender antes de construir. Experiência: facilitar cada interação. Desenvolvimento: conectar todas as camadas.">
-
-Na UXi, participo da construção e da evolução dos produtos, conectando **necessidades, funcionalidades e implementação**. Meu foco é manter a solução alinhada ao problema que ela precisa resolver, com atenção aos detalhes da experiência e ao funcionamento do sistema.
+Atualmente, sou responsável pela análise e pelo desenvolvimento dos produtos da [**UXi Solutions**](https://github.com/uxisolutions).
 
 <br>
 
-## Tecnologias e ferramentas
+## Atuação de ponta a ponta
 
+<img src="assets/miguel-profile/focus.svg" width="100%" alt="Minha atuação: analisar o problema, desenvolver a aplicação e colocar a solução em funcionamento.">
 
-Utilizo essas ferramentas conforme as necessidades do projeto, conectando interface, processamento e dados em soluções voltadas ao uso real.
+| Frente | Minha atuação |
+| :--- | :--- |
+| **Análise de sistemas** | Entender necessidades, processos, regras de negócio e requisitos. |
+| **Front-end e experiência do usuário** | Construir interfaces e fluxos claros, conectados à rotina de quem utiliza o sistema. |
+| **Back-end e integrações** | Desenvolver a lógica das aplicações e a comunicação entre sistemas e serviços. |
+| **Dados** | Estruturar a persistência e o acesso às informações da aplicação. |
+| **Infraestrutura** | Configurar ambientes, publicar aplicações e acompanhar seu funcionamento. |
+
+**Minha atuação acompanha a necessidade do projeto, da interface à infraestrutura.**
 
 <br>
 
-## Produtos e projetos
+## Como eu trabalho
 
-### UXi Agro
+### Entender com atenção. Desenvolver com propósito. Evoluir com a prática.
 
-<img src="assets/miguel-profile/product.svg" width="100%" alt="UXi Agro — Tecnologia conectada à operação real. Da análise dos processos ao desenvolvimento de funcionalidades para a gestão.">
+Procuro conhecer o contexto antes de implementar uma funcionalidade. Entender a operação, as dificuldades e as exceções ajuda a construir uma solução coerente com o problema.
 
-Atuação na **análise e no desenvolvimento** de um sistema de gestão que conecta etapas da operação, **da colheita à entrega ao cliente**.
+- **Visão do conjunto:** considerar as relações entre interface, lógica, dados e infraestrutura.
+- **Cuidado com a experiência:** facilitar a compreensão das informações e a realização das tarefas.
+- **Adaptação técnica:** trabalhar com as tecnologias necessárias para atender ao projeto.
+- **Responsabilidade pela entrega:** acompanhar o caminho entre o requisito e a aplicação em funcionamento.
+- **Aprendizado contínuo:** aprofundar conhecimentos a partir dos desafios de cada implementação.
 
-O produto reúne acompanhamento operacional, pedidos, vendas, despesas e indicadores, aproximando a informação de quem precisa utilizá-la para trabalhar e decidir.
+<br>
 
-[**Conheça a UXi Solutions →**](https://uxisolutions.com.br)
+## Experiência prática
 
-### Validador de carga inicial de funcionários
+<img src="assets/miguel-profile/product.svg" width="100%" alt="Experiência prática em análise, desenvolvimento e infraestrutura. Da necessidade à aplicação em funcionamento.">
 
-Projeto em Python voltado à validação de cadastros de funcionários e dependentes. Aplica regras de consistência, identifica duplicidades e gera um resumo dos resultados para apoiar a preparação dos dados.
+### Desenvolvimento de produtos
+
+Desenvolvi o **UXi Agro**, produto de propriedade da **UXi Solutions**. Minha atuação envolve a análise dos processos e o desenvolvimento das funcionalidades para a gestão da operação.
+
+### Validação de dados e automação
+
+Desenvolvimento de soluções para verificar cadastros, aplicar regras de consistência, identificar duplicidades e organizar os resultados da validação, apoiando a preparação e o processamento de informações.
+
+### Publicação e infraestrutura
+
+Atuação na configuração de ambientes, publicação de aplicações e integração com serviços de processamento, armazenamento e persistência de dados. Essa prática conecta o desenvolvimento ao funcionamento da solução.
 
 [**Explore meus repositórios públicos →**](https://github.com/MiguelBALopes?tab=repositories)
 
 <br>
 
-## Formação e desenvolvimento contínuo
+## Formação acadêmica
 
-Curso **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**. Complemento a formação com a prática em produtos, estudos de arquitetura de software e aprofundamento em serviços de nuvem.
+Sou aluno da graduação em **Análise e Desenvolvimento de Sistemas pela Fatec Sorocaba**.
 
-Conecto o aprendizado técnico aos desafios que encontro na análise e no desenvolvimento dos sistemas.
+Conecto a formação acadêmica à prática profissional, aplicando os fundamentos aos desafios de análise, desenvolvimento e infraestrutura que encontro nos projetos.
 
 <br>
 
-<a href="mailto:miguelbelizario@uxisolutions.com.br"><img src="assets/miguel-profile/contact.svg" width="100%" alt="Vamos conversar sobre tecnologia e produto? miguelbelizario@uxisolutions.com.br"></a>
+<a href="mailto:miguelbelizario@uxisolutions.com.br"><img src="assets/miguel-profile/contact.svg" width="100%" alt="Vamos conversar sobre desenvolvimento? miguelbelizario@uxisolutions.com.br"></a>
 
 <p align="center">
-  <a href="https://github.com/uxisolutions">UXi Solutions</a>
-  &nbsp; · &nbsp;
-  <a href="https://uxisolutions.com.br">Site da empresa</a>
+  <a href="https://github.com/MiguelBALopes?tab=repositories">Meus repositórios</a>
   &nbsp; · &nbsp;
   <a href="mailto:miguelbelizario@uxisolutions.com.br">E-mail profissional</a>
 </p>
 
-<p align="center"><sub>Miguel Belizario · Tecnologia, produto e experiência.</sub></p>
+<p align="center"><sub>Miguel Belizario · Da análise à infraestrutura.</sub></p>
